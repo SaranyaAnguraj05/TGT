@@ -25,6 +25,23 @@ and transaction amount. Perfect schedule will be made for the Tourists to enjoy 
 according to their needs. This project is a one stop solution for the users to satisfy all their needs
 regarding their trip/tour.
 # SAMPLE OUTPUT SCREENSHOTS
+# HOME PAGE:
+![Screenshot (1108)](https://github.com/user-attachments/assets/f6fc1073-7c91-4bd0-816b-ac0ee8890f76)
+![Screenshot (1109)](https://github.com/user-attachments/assets/bf4d21e7-5fee-43e6-8041-74629795115a)
+![Screenshot (1110)](https://github.com/user-attachments/assets/feaeb8c6-35e6-4d18-8e44-8876a8717d8e)
+
+# ADMIN DASHBOARD:
+![Screenshot (1151)](https://github.com/user-attachments/assets/2ead5168-7544-4395-bf42-5e205a5510ad)
+
+# ADMIN MANAGE PACKAGE:
+![Screenshot (1152)](https://github.com/user-attachments/assets/4ee48d11-0638-463e-a833-8fe425850287)
+
+# ADMIN CREATES PACKAGE:
+![image](https://github.com/user-attachments/assets/79e2b56f-365d-4139-bcde-7de8a966e6f4)
+
 # SIGN IN PAGE:
 ![image](https://github.com/user-attachments/assets/1bb84949-466c-45fa-a2e9-325a828a3d19)
+# USER PACKAGE BOOKING HISTORY:
+![image](https://github.com/user-attachments/assets/932bc33d-f43f-4fd3-a545-849ec7fc7ab2)
+ 
 
