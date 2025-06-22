@@ -1,6 +1,6 @@
 # TGT
-Travel Guide Portal For Tiruchirappalli District
-ABSTRACT
+# Travel Guide Portal For Tiruchirappalli District
+# ABSTRACT
 Travel guide portal provides travel reviews, trip fares or a combination of both. Over 1.5 billion
 people book travel per year, 70% of which is done online. The problem statement is to build a travel
 guide website for Tiruchirapalli district. The purpose of this project is to provide complete
@@ -24,3 +24,7 @@ specifics, Tourists can pay with a card by entering data such the cardholder's n
 and transaction amount. Perfect schedule will be made for the Tourists to enjoy their trip/tour
 according to their needs. This project is a one stop solution for the users to satisfy all their needs
 regarding their trip/tour.
+# SAMPLE OUTPUT SCREENSHOTS
+# SIGN IN PAGE:
+![image](https://github.com/user-attachments/assets/1bb84949-466c-45fa-a2e9-325a828a3d19)
+
